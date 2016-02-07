@@ -1,0 +1,7 @@
+E:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\XNA4 Projects\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\gamemenu without classes\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\Media\Code\gamemenu without classes\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\year2\Programming\gamemenu without classes\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenuContent\obj\x86\Debug\gamemenuContent.contentprojResolveAssemblyReference.cache

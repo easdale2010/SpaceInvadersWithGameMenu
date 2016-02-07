@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background for Menus.jpg</Source>
+      <Name>Background for Menus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\Background for Menus.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Normal.png</Source>
+      <Name>Exit-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Normal.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Selected.png</Source>
+      <Name>Exit-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\Exit-Selected.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Normal.png</Source>
+      <Name>High-Score-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Normal.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Selected.png</Source>
+      <Name>High-Score-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\High-Score-Selected.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Normal.png</Source>
+      <Name>Options-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Normal.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Selected.png</Source>
+      <Name>Options-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\Options-Selected.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Normal.png</Source>
+      <Name>Start-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Normal.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Selected.png</Source>
+      <Name>Start-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\Start-Selected.xnb</Output>
+      <Time>2011-10-12T15:20:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor-Highlight.png</Source>
+      <Name>X-Games-Cursor-Highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb</Output>
+      <Time>2011-10-19T15:22:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor.png</Source>
+      <Name>X-Games-Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\X-Games-Cursor.xnb</Output>
+      <Time>2011-10-19T15:22:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz4.png</Source>
+      <Name>quartz4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\quartz4.xnb</Output>
+      <Time>2012-01-29T22:07:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.jpg</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2012-11-07T10:18:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>goodship.png</Source>
+      <Name>goodship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\goodship.xnb</Output>
+      <Time>2012-11-07T10:18:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>invader.png</Source>
+      <Name>invader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\invader.xnb</Output>
+      <Time>2012-11-07T10:18:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>invader_bullet.png</Source>
+      <Name>invader_bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\invader_bullet.xnb</Output>
+      <Time>2012-11-07T10:19:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sheild1.png</Source>
+      <Name>sheild1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\sheild1.xnb</Output>
+      <Time>2012-11-07T10:19:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sheild2.png</Source>
+      <Name>sheild2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\sheild2.xnb</Output>
+      <Time>2012-11-07T10:19:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sheild3.png</Source>
+      <Name>sheild3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\sheild3.xnb</Output>
+      <Time>2012-11-07T10:19:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sheild4.png</Source>
+      <Name>sheild4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\sheild4.xnb</Output>
+      <Time>2012-11-07T10:19:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tank_bullet_1.png</Source>
+      <Name>tank_bullet_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\tank_bullet_1.xnb</Output>
+      <Time>2012-11-07T10:19:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>universe.jpg</Source>
+      <Name>universe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\universe.xnb</Output>
+      <Time>2012-11-07T10:19:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ballhit.wav</Source>
+      <Name>ballhit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\ballhit.xnb</Output>
+      <Time>2012-11-07T10:18:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>crash.wav</Source>
+      <Name>crash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\crash.xnb</Output>
+      <Time>2012-11-07T10:18:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2012-11-07T10:18:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.wav</Source>
+      <Name>laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\laser.xnb</Output>
+      <Time>2012-11-07T10:19:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2012-11-07T10:18:58+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{01D2280D-DC81-44A8-9295-621E45F76362}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenuContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alan Easdale\Documents\college\year2\Programming\gamemenu with spaceinvaders\gamemenu\gamemenu\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-03T21:07:47.9886339+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
